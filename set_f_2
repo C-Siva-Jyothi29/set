@@ -1,3 +1,4 @@
 list = [1,2,2,2,3,4]
 set_a = set(list)
 print(set_a)
+print(type(set_a))
